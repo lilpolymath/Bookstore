@@ -1,0 +1,33 @@
+
+.mv_8 {
+  margin: 8px 0px;
+}
+
+.notification_count {
+  font-size: 12px;
+  font-weight: 900;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notification_active {
+  background-color: rgb(18, 163, 18);
+  color: white;
+}
+
+.sidebar_item {
+  display: flex;
+  height: 30px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 4px 0px;
+}
+
+.sidebar_item > p {
+  font-size: 1.5rem;
+  font-weight: 500;
+}

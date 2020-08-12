@@ -1,8 +1,8 @@
 import React from 'react';
 import styles from './Book.module.css';
-import { ReactComponent as Active } from '../common/active-star.svg';
-import { ReactComponent as Likes } from '../common/likes.svg';
-import { ReactComponent as People } from '../common/people.svg';
+import { ReactComponent as Active } from '../../common/active-star.svg';
+import { ReactComponent as Likes } from '../../common/likes.svg';
+import { ReactComponent as People } from '../../common/people.svg';
 
 const Book = () => {
   return (
