@@ -52,3 +52,13 @@ code {
 .mh-12 {
   margin: 0 12px;
 }
+
+.component_header {
+  font-size: 2rem;
+  text-align: center;
+  margin: 10rem auto 2rem;
+}
+
+.components {
+  margin: 2rem 0;
+}
