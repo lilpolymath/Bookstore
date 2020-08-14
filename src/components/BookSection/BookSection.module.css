@@ -1,6 +1,28 @@
-/* .test {
+.featured {
+  margin-top: 24px;
+  margin-bottom: 48px;
+}
+
+.books {
+  margin: 24px;
+}
+
+.header {
+  font-size: 1.5rem;
+  line-height: 3rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 400;
+  border-bottom-width: 1px;
+  border-bottom-color: rgba(0, 0, 0, 0.12);
+  border-bottom-style: solid;
+}
+
+.book_listing {
+  margin: 24px 0;
   display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 24px;
-  grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
   grid-auto-rows: 175px;
-} */
+  margin: 1.5rem 0;
+}

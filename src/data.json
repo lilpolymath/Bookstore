@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dream Psychology",
+    "author": "Sigmund Freud",
+    "availablility": true,
+    "genre": "motivation",
+    "rating": 4,
+    "label": ["psychic", "dreams"],
+    "likes": 24,
+    "reads": 31,
+    "year": 1998,
+    "book_cover": "cloudinary link"
+  },
+  {
+    "name": "Dream Psychology",
+    "author": "Sigmund Freud",
+    "availablility": true,
+    "genre": "motivation",
+    "rating": 4,
+    "label": ["psychic", "dreams"],
+    "likes": 24,
+    "reads": 31,
+    "year": 1998,
+    "book_cover": "cloudinary link"
+  },
+  {
+    "name": "Dream Psychology",
+    "author": "Sigmund Freud",
+    "availablility": true,
+    "genre": "motivation",
+    "rating": 4,
+    "label": ["psychic", "dreams"],
+    "likes": 24,
+    "reads": 31,
+    "year": 1998,
+    "book_cover": "cloudinary link"
+  }
+]

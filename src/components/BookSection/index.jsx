@@ -1,7 +1,8 @@
 import React from 'react';
+import BookSection from './BookSection';
 
-const index = () => {
-  return <div></div>;
+const index = ({ title }) => {
+  return <BookSection title={title} />;
 };
 
 export default index;

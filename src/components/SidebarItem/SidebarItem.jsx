@@ -2,8 +2,6 @@ import React from 'react';
 import styles from './SidebarItem.module.css';
 
 const SidebarItem = ({ name, badge = '', active = false }) => {
-  const style = active;
-
   return (
     <div className={styles.sidebar_item}>
       <p className={styles.mv_8}>{name}</p>
