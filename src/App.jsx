@@ -2,6 +2,7 @@ import React from 'react';
 import Book from './components/Book';
 import SidebarItem from './components/SidebarItem';
 import BookSection from './components/BookSection';
+import SidebarSection from './components/SidebarSection';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Book />
         <Book />
         <BookSection />
+        <SidebarSection />
       </div>
     </div>
   );

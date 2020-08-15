@@ -1,0 +1,13 @@
+.section {
+  margin: 16px 0;
+}
+
+.section_header {
+  padding-top: 16px;
+  font-size: 1.75rem;
+  font-weight: bold;
+  border-top-width: 2px;
+  border-top-color: rgba(0, 0, 0, 0.3);
+  border-top-style: solid;
+  margin: 8px 0;
+}
